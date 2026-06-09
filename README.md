@@ -84,7 +84,8 @@ This project was developed as a group assignment for the Digital Image Processin
 
 ## Download Processed Image
 
-![Download Demo](assets/download-demo.png)
+![Download Demo](assets/download-feature(1).png)
+![Download Demo](assets/download-feature(2).png)
 
 ---
 
