@@ -66,7 +66,7 @@ This project was developed as a group assignment for the Digital Image Processin
 
 ## Multiple Filter Stacking
 
-![Multiple Stack](assets/multiple-stack.png)
+![Multiple Stack](assets/multi-filter-stack.png)
 
 ---
 
